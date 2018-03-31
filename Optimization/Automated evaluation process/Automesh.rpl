@@ -1,0 +1,366 @@
+ic_undo_group_begin
+ic_geo_cre_geom_input {D:/matlabfile/formatted data points generation/formatted.txt} 0.00001 input PNTS pnt CRVS crv SURFS {}
+ic_boco_solver
+ic_boco_clear_icons
+ic_csystem_display all 0
+ic_csystem_set_current global
+ic_boco_nastran_csystem reset
+ic_undo_group_end
+ic_set_global geo_cad 0.2 toler
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_geo_new_family GEOM
+ic_boco_set_part_color GEOM
+ic_delete_geometry curve names crv.00 0
+ic_curve point PNTS crv.00 {pnt2 pnt3 pnt4 pnt5 pnt6 pnt7 pnt8 pnt9 pnt10 pnt11 pnt12 pnt13 pnt14 pnt15 pnt16 pnt17 pnt18 pnt19 pnt20 pnt21 pnt22 pnt23 pnt24 pnt25 pnt26 pnt27 pnt28 pnt29 pnt30 pnt31 pnt32 pnt33 pnt34 pnt35 pnt36 pnt37 pnt38 pnt39 pnt40 pnt41 pnt42 pnt43 pnt44 pnt45 pnt46 pnt47 pnt48 pnt49 pnt50 pnt51 pnt52 pnt53 pnt54 pnt55 pnt56 pnt57 pnt58 pnt59 pnt60 pnt61 pnt62 pnt63 pnt64 pnt65 pnt66 pnt67 pnt68 pnt69 pnt70 pnt71 pnt72 pnt73 pnt74 pnt75 pnt76 pnt77 pnt78 pnt79 pnt80 pnt81 pnt82 pnt83 pnt84 pnt85 pnt86 pnt87 pnt88 pnt89 pnt90 pnt91 pnt92 pnt93 pnt94 pnt95 pnt96 pnt97 pnt98 pnt99 pnt100 pnt102}
+ic_undo_group_end
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_delete_geometry curve names crv.01 0
+ic_curve point PNTS crv.01 {pnt102 pnt103 pnt104 pnt105 pnt106 pnt107 pnt108 pnt109 pnt110 pnt111 pnt112 pnt113 pnt114 pnt115 pnt116 pnt117 pnt118 pnt119 pnt120 pnt121 pnt122 pnt123 pnt124 pnt125 pnt126 pnt127 pnt128 pnt129 pnt130 pnt131 pnt132 pnt133 pnt134 pnt135 pnt136 pnt137 pnt138 pnt139 pnt140 pnt141 pnt142 pnt143 pnt144 pnt145 pnt146 pnt147 pnt148 pnt149 pnt150 pnt151 pnt152 pnt153 pnt154 pnt155 pnt156 pnt157 pnt158 pnt159 pnt160 pnt161 pnt162 pnt163 pnt164 pnt165 pnt166 pnt167 pnt168 pnt169 pnt170 pnt171 pnt172 pnt173 pnt174 pnt175 pnt176 pnt177 pnt178 pnt179 pnt180 pnt181 pnt182 pnt183 pnt184 pnt185 pnt186 pnt187 pnt188 pnt189 pnt190 pnt191 pnt192 pnt193 pnt194 pnt195 pnt196 pnt197 pnt198 pnt199 pnt200 pnt201}
+ic_undo_group_end
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_curve arc PNTS crv.02 {pnt201 pnt202 pnt403}
+ic_undo_group_end
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_delete_geometry curve names crv.03 0
+ic_curve point PNTS crv.03 {pnt403 pnt402 pnt401 pnt400 pnt399 pnt398 pnt397 pnt396 pnt395 pnt394 pnt393 pnt392 pnt391 pnt390 pnt389 pnt388 pnt387 pnt386 pnt385 pnt384 pnt383 pnt382 pnt381 pnt380 pnt379 pnt378 pnt377 pnt376 pnt375 pnt374 pnt373 pnt372 pnt371 pnt370 pnt369 pnt368 pnt367 pnt366 pnt365 pnt364 pnt363 pnt362 pnt361 pnt360 pnt359 pnt358 pnt357 pnt356 pnt355 pnt354 pnt353 pnt352 pnt351 pnt350 pnt349 pnt348 pnt347 pnt346 pnt345 pnt344 pnt343 pnt342 pnt341 pnt340 pnt339 pnt338 pnt337 pnt336 pnt335 pnt334 pnt333 pnt332 pnt331 pnt330 pnt329 pnt328 pnt327 pnt326 pnt325 pnt324 pnt323 pnt322 pnt321 pnt320 pnt319 pnt318 pnt317 pnt316 pnt315 pnt314 pnt313 pnt312 pnt311 pnt310 pnt309 pnt308 pnt307 pnt306 pnt305 pnt304}
+ic_undo_group_end
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_delete_geometry curve names crv.04 0
+ic_curve point PNTS crv.04 {pnt304 pnt302 pnt301 pnt300 pnt299 pnt298 pnt297 pnt296 pnt295 pnt294 pnt293 pnt292 pnt291 pnt290 pnt289 pnt288 pnt287 pnt286 pnt285 pnt284 pnt283 pnt282 pnt281 pnt280 pnt279 pnt278 pnt277 pnt276 pnt275 pnt274 pnt273 pnt272 pnt271 pnt270 pnt269 pnt268 pnt267 pnt266 pnt265 pnt264 pnt263 pnt262 pnt261 pnt260 pnt259 pnt258 pnt257 pnt256 pnt255 pnt254 pnt253 pnt252 pnt251 pnt250 pnt249 pnt248 pnt247 pnt246 pnt245 pnt244 pnt243 pnt242 pnt241 pnt240 pnt239 pnt238 pnt237 pnt236 pnt235 pnt234 pnt233 pnt232 pnt231 pnt230 pnt229 pnt228 pnt227 pnt226 pnt225 pnt224 pnt223 pnt222 pnt221 pnt220 pnt219 pnt218 pnt217 pnt216 pnt215 pnt214 pnt213 pnt212 pnt211 pnt210 pnt209 pnt208 pnt207 pnt206 pnt205 pnt204}
+ic_undo_group_end
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_curve arc PNTS crv.05 {pnt204 pnt203 pnt2}
+ic_undo_group_end
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_geo_set_part curve {crv.05 crv.02} TIPS 0
+ic_delete_empty_parts
+ic_undo_group_end
+ic_undo_group_begin
+ic_geo_set_part curve {crv.00 crv.04 crv.03 crv.01} BLADES 0
+ic_delete_empty_parts
+ic_undo_group_end
+ic_set_global geo_cad 0.2 toler
+ic_undo_group_begin
+ic_geo_new_family GEOM
+ic_boco_set_part_color GEOM
+ic_point {} GEOM pnt.00 200,0,0
+ic_undo_group_end
+ic_undo_group_begin
+ic_point {} GEOM pnt.01 -200,0,0
+ic_undo_group_end
+ic_undo_group_begin
+ic_point {} GEOM pnt.02 0,200,0
+ic_undo_group_end
+ic_undo_group_begin
+ic_point {} GEOM pnt.03 0,-200,0
+ic_undo_group_end
+ic_set_global geo_cad 0.3 toler
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_curve arc GEOM crv.13 {pnt.01 pnt.03 pnt.00}
+ic_undo_group_end
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_curve arc GEOM crv.14 {pnt.00 pnt.02 pnt.01}
+ic_undo_group_end
+ic_undo_group_begin
+ic_undo_group_end
+ic_set_global geo_cad 0.3 toler
+ic_undo_group_begin
+ic_surface 2-4crvs GEOM srf.02 {0.01 {crv.14 crv.13}}
+ic_set_global geo_cad 0.3 toler
+ic_set_dormant_pickable point 0 {}
+ic_set_dormant_pickable curve 0 {}
+ic_undo_group_end
+ic_undo_group_begin
+ic_geo_project_curve_to_surface {crv.05 crv.04 crv.03 crv.02 crv.01 crv.00} srf.02 tmp00 GEOM 0 0
+ic_geo_trim_surface srf.02 {tmp00 tmp000 tmp001 tmp002 tmp003 tmp004} 1
+ic_set_global geo_cad 0.3 toler
+ic_set_dormant_pickable point 0 {}
+ic_set_dormant_pickable curve 0 {}
+ic_undo_group_end
+ic_undo_group_begin
+ic_delete_geometry surface names srf.02.cut.0 0
+ic_undo_group_end
+ic_undo_group_begin
+ic_geo_set_part surface srf.02 ROTATIONAL 0
+ic_delete_empty_parts
+ic_undo_group_end
+ic_undo_group_begin
+ic_geo_set_part curve tmp00 BLADES 0
+ic_delete_empty_parts
+ic_undo_group_end
+ic_undo_group_begin
+ic_geo_set_part curve {crv.13 crv.14} INTERFACE 0
+ic_delete_empty_parts
+ic_undo_group_end
+ic_undo_group_begin
+ic_geo_set_part curve {crv.05 crv.02} BLADES 0
+ic_geo_delete_family TIPS
+ic_delete_empty_parts
+ic_undo_group_end
+ic_set_global geo_cad 0.3 toler
+ic_undo_group_begin
+ic_set_meshing_params surface_global 0 mesh_type 3 mesh_method 1 simple_offset 0 bunch_respect 1 protect_line 1 bound_smooth 0 block_mapping 0.2 adjust_nodes_max 0.0 proj_surf 1 surf_sizes 0 ign_size 0.05 try_harder 1 impr_level 1 mesh_dormant 0 smooth_dormant 0 max_area 0.0 max_length 0.0 min_angle 0.0 max_nodes 0 max_elements 0 merge_surfs 1 mapped_method 1 free_bunch 0 shrinkwrap_nsmooth 5 shrinkwrap_projfactor 0.1 snorm 1 quadratic 0
+ic_undo_group_end
+ic_undo_group_begin
+ic_geo_set_family_params BLADES prism 0 emax 0.5 ehgt 0.1 hrat 1.2 nlay 10 ewid 0 emin 0.0 edev 0.0
+ic_geo_set_family_params INTERFACE prism 0 emax 6.98 ehgt 0.0 hrat 0 nlay 0 ewid 0 emin 0.0 edev 0.0
+ic_geo_set_family_params ROTATIONAL prism 0 emax 6.98 ehgt 0.0 hrat 0 nlay 0 erat 0 ewid 0 emin 0.0 edev 0.0 split_wall 0 internal_wall 0
+ic_undo_group_end
+ic_geo_params_blank_done part 1
+ic_set_global geo_cad 0.3 toler
+ic_undo_group_begin
+ic_set_meshing_params surface srf.02 etyp 3
+ic_set_meshing_params surface srf.02 emethod 1
+ic_quad2 what surfaces entities {} element 2 proj 1 conver 0.025 geo_tol 0 ele_tol -0.05 dev 0.0 improvement 1 block 0.2 bunch 1 debug 0 adjust_nodes 0 adjust_nodes_max 0.0 try_harder 1 error_subset Failed_surfaces pattern 150 big 1 board 0 remove_old -1 inner 0 simple_offset 0 enn 0 b_smooth 0 time_max 0 ele_max 0 four 0 merge_dormant 1 max_length 0.0 max_area 0.0 min_angle 0.0 max_nodes 0 max_elements 0 smoothdormant 0 breakpoint 0 freeb 0 n_threads 0 snorm 1 shape 0
+ic_uns_update_family_type visible {GEOM INTERFACE ROTATIONAL PNTS ORFN BLADES} {!NODE LINE_2 TRI_3 QUAD_4} update 0
+ic_uns_subset_configure All -shade flat_wire
+ic_uns_subset_configure Selected -shade flat_wire
+ic_delete_empty_parts
+ic_undo_group_end
+ic_uns_update_family_type visible {GEOM INTERFACE ROTATIONAL PNTS ORFN BLADES} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_set_global geo_cad 0.3 toler
+ic_undo_group_begin
+ic_point {} GEOM pnt.12 3000,1500,0
+ic_undo_group_end
+ic_undo_group_begin
+ic_point {} GEOM pnt.13 3000,-1500,0
+ic_undo_group_end
+ic_undo_group_begin
+ic_point {} GEOM pnt.14 -1500,-1500,0
+ic_undo_group_end
+ic_undo_group_begin
+ic_point {} GEOM pnt.15 -1500,1500,0
+ic_undo_group_end
+ic_set_global geo_cad 3 toler
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_delete_geometry curve names crv.22 0
+ic_curve point GEOM crv.22 {pnt.14 pnt.13}
+ic_undo_group_end
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_delete_geometry curve names crv.23 0
+ic_curve point GEOM crv.23 {pnt.13 pnt.12}
+ic_undo_group_end
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_delete_geometry curve names crv.24 0
+ic_curve point GEOM crv.24 {pnt.12 pnt.15}
+ic_undo_group_end
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_delete_geometry curve names crv.25 0
+ic_curve point GEOM crv.25 {pnt.15 pnt.14}
+ic_undo_group_end
+ic_undo_group_begin
+ic_undo_group_end
+ic_undo_group_begin
+ic_geo_set_part curve crv.25 INLET 0
+ic_uns_update_family_type visible {INLET GEOM INTERFACE ROTATIONAL PNTS ORFN BLADES} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_delete_empty_parts
+ic_undo_group_end
+ic_undo_group_begin
+ic_geo_set_part curve crv.23 OUTLET 0
+ic_uns_update_family_type visible {INLET GEOM OUTLET INTERFACE ROTATIONAL PNTS ORFN BLADES} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_delete_empty_parts
+ic_undo_group_end
+ic_undo_group_begin
+ic_geo_set_part curve {crv.24 crv.22} SIDES 0
+ic_uns_update_family_type visible {SIDES INLET GEOM OUTLET INTERFACE ROTATIONAL PNTS ORFN BLADES} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_delete_empty_parts
+ic_undo_group_end
+ic_set_global geo_cad 3 toler
+ic_undo_group_begin
+ic_surface 2-4crvs INLET srf.05 {0.01 {crv.25 crv.22 crv.23 crv.24}}
+ic_set_global geo_cad 3 toler
+ic_set_dormant_pickable point 0 {}
+ic_set_dormant_pickable curve 0 {}
+ic_undo_group_end
+ic_undo_group_begin
+ic_geo_project_curve_to_surface {crv.13 crv.14} srf.05 tmp00 GEOM 0 0
+ic_geo_trim_surface srf.05 {tmp000 tmp001} 1
+ic_set_global geo_cad 3 toler
+ic_set_dormant_pickable point 0 {}
+ic_set_dormant_pickable curve 0 {}
+ic_undo_group_end
+ic_uns_update_family_type visible {SIDES INLET GEOM OUTLET INTERFACE PNTS ORFN BLADES} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_undo_group_begin
+ic_delete_geometry surface names srf.05.cut.0 0
+ic_undo_group_end
+ic_uns_update_family_type visible ORFN {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {GEOM ORFN} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_subset_create
+ic_uns_subset_add_families_and_types uns_sub_0 INTERFACE all
+ic_uns_subset_delete uns_sub_0
+ic_undo_group_begin
+ic_geo_set_part curve tmp000 INTERFACE 0
+ic_uns_update_family_type visible {GEOM ORFN} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_delete_empty_parts
+ic_undo_group_end
+ic_uns_create_selection_subset 0
+ic_uns_create_selection_edgelist 1
+ic_uns_subset_configure uns_sel_0 -draw_nodes 1
+ic_uns_uniqify uns_sel_0
+ic_uns_subset_visible uns_sel_0 0
+ic_uns_create_selection_edgelist 0
+ic_uns_subset_delete uns_sel_0
+ic_uns_update_family_type visible {GEOM INTERFACE ORFN} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {GEOM ORFN} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible ORFN {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {GEOM ORFN} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible ORFN {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {SIDES INLET GEOM OUTLET INTERFACE ROTATIONAL PNTS ORFN BLADES} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible ORFN {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {ORFN BLADES} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {GEOM ORFN BLADES} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {GEOM ORFN} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible ORFN {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {ORFN BLADES} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible ORFN {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {GEOM ORFN} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible ORFN {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {INLET ORFN} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible ORFN {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {INLET ORFN} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible ORFN {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {SIDES INLET GEOM OUTLET INTERFACE ROTATIONAL PNTS ORFN BLADES} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_undo_group_begin
+ic_geo_set_part surface srf.05 STATIONARY 0
+ic_uns_update_family_type visible {SIDES INLET GEOM OUTLET INTERFACE ROTATIONAL PNTS ORFN STATIONARY BLADES} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_delete_empty_parts
+ic_undo_group_end
+ic_uns_update_family_type visible ORFN {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {INLET ORFN} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible ORFN {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {OUTLET ORFN} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible ORFN {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {SIDES ORFN} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible ORFN {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {ORFN STATIONARY} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible ORFN {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {SIDES INLET GEOM OUTLET INTERFACE ROTATIONAL PNTS ORFN STATIONARY BLADES} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_set_family_color_for_name BLADES #ed337f
+ic_set_family_color_for_name GEOM #33acd0
+ic_set_family_color_for_name INLET #d3a833
+ic_set_family_color_for_name INTERFACE #7b33ef
+ic_set_family_color_for_name OUTLET #33fd4e
+ic_set_family_color_for_name PNTS #fb335a
+ic_set_family_color_for_name ROTATIONAL #3387e9
+ic_set_family_color_for_name SIDES #b4c933
+ic_set_family_color_for_name STATIONARY #a033d9
+ic_set_global geo_cad 3 toler
+ic_undo_group_begin
+ic_geo_set_family_params INTERFACE prism 0 emax 6.98 ehgt 0.0 hrat 0 nlay 0 ewid 0 emin 0.0 edev 0.0
+ic_geo_set_family_params BLADES only_crv_inf ehgt 0.1 nlay 10 hrat 1.2 ewid 0
+ic_geo_set_family_params INLET only_crv_inf ehgt 0.0 nlay 0 hrat 0 ewid 0
+ic_geo_set_family_params OUTLET only_crv_inf ehgt 0.0 nlay 0 hrat 0 ewid 0
+ic_geo_set_family_params ROTATIONAL only_crv_inf ehgt 0.0 nlay 0 hrat 0 ewid 0
+ic_geo_set_family_params SIDES only_crv_inf ehgt 0.0 nlay 0 hrat 0 ewid 0
+ic_geo_set_family_params STATIONARY only_crv_inf ehgt 0.0 nlay 0 hrat 0 ewid 0
+ic_undo_group_end
+ic_geo_params_blank_done part 1
+ic_undo_group_begin
+ic_geo_set_family_params INLET prism 0 emax 45.0 ehgt 0.0 hrat 0 nlay 0 ewid 0 emin 0.0 edev 0.0
+ic_geo_set_family_params OUTLET prism 0 emax 60.0 ehgt 0.0 hrat 0 nlay 0 ewid 0 emin 0.0 edev 0.0
+ic_geo_set_family_params SIDES prism 0 emax 45.0 ehgt 0.0 hrat 0 nlay 0 ewid 0 emin 0.0 edev 0.0
+ic_geo_set_family_params STATIONARY prism 0 emax 60.0 ehgt 0.0 hrat 0 nlay 0 erat 0 ewid 0 emin 0.0 edev 0.0 split_wall 0 internal_wall 0
+ic_geo_set_family_params BLADES only_crv_inf ehgt 0.1 nlay 10 hrat 1.2 ewid 0
+ic_geo_set_family_params INTERFACE only_crv_inf ehgt 0.0 nlay 0 hrat 0 ewid 0
+ic_geo_set_family_params ROTATIONAL only_crv_inf ehgt 0.0 nlay 0 hrat 0 ewid 0
+ic_undo_group_end
+ic_uns_update_family_type visible {SIDES INLET GEOM OUTLET INTERFACE ROTATIONAL PNTS ORFN STATIONARY BLADES} {!NODE LINE_2 !TRI_3 !QUAD_4} update 0
+ic_uns_update_family_type visible {SIDES INLET GEOM OUTLET INTERFACE ROTATIONAL PNTS ORFN STATIONARY BLADES} {!NODE LINE_2 TRI_3 QUAD_4} update 0
+ic_uns_update_family_type visible {SIDES INLET GEOM OUTLET INTERFACE ROTATIONAL PNTS ORFN BLADES} {!NODE LINE_2 TRI_3 QUAD_4} update 0
+ic_uns_update_family_type visible {SIDES INLET GEOM OUTLET INTERFACE ROTATIONAL PNTS ORFN STATIONARY BLADES} {!NODE LINE_2 TRI_3 QUAD_4} update 0
+ic_set_global geo_cad 3 toler
+ic_undo_group_begin
+ic_set_meshing_params surface srf.05 etyp 3
+ic_set_meshing_params surface srf.05 emethod 1
+ic_quad2 what surfaces entities srf.05 element 2 proj 1 conver 0.025 geo_tol 0 ele_tol -0.05 dev 0.0 improvement 1 block 0.2 bunch 1 debug 0 adjust_nodes 0 adjust_nodes_max 0.0 try_harder 1 error_subset Failed_surfaces pattern 150 big 1 board 0 remove_old -1 inner 0 simple_offset 0 enn 0 b_smooth 0 time_max 0 ele_max 0 four 0 merge_dormant 1 max_length 0.0 max_area 0.0 min_angle 0.0 max_nodes 0 max_elements 0 smoothdormant 0 breakpoint 0 freeb 0 n_threads 0 snorm 1 shape 0
+ic_uns_update_family_type visible {IC_QUAD_FROM_GEOMETRY SIDES INLET GEOM OUTLET INTERFACE ROTATIONAL PNTS ORFN STATIONARY BLADES} {!NODE LINE_2 TRI_3 QUAD_4} update 0
+ic_delete_empty_parts
+ic_undo_group_end
+ic_set_global geo_cad 3 toler
+ic_set_meshing_params global 0
+ic_undo_group_begin
+ic_set_global geo_cad 1 toptol_userset
+ic_set_meshing_params global 0 gttol 0.001 gtrel 1
+ic_regenerate_tris
+ic_geo_set_units mm
+ic_undo_group_end
+ic_undo_group_begin
+ic_boco_solver {ANSYS Fluent}
+ic_solver_mesh_info {ANSYS Fluent}
+ic_set_meshing_params global 0
+ic_undo_group_end
+ic_boco_set GEOM { { 1  {color}  13675571  } }
+ic_boco_set INLET {{1 VELI 0} { 1  {color}  3385555  }}
+ic_boco_set SIDES {{1 SYM 0} { 1  {color}  3393972  }}
+ic_boco_set ORFN {}
+ic_boco_set PNTS { { 1  {color}  5911547  } }
+ic_boco_set ROTATIONAL {{1 FLUID 0} { 1  {color}  15304499  }}
+ic_boco_set INTERFACE {{1 IFACE 0} { 1  {color}  15676283  }}
+ic_boco_set OUTLET {{1 PRESO 0} { 1  {color}  5176627  }}
+ic_boco_set STATIONARY {{1 FLUID 0} { 1  {color}  14234528  }}
+ic_boco_set BLADES {{1 WALL 0} { 1  {color}  8336365  }}
+ic_delete_empty_parts
+ic_delete_empty_parts
+ic_uns_subset_configure All -shade flat_wire
+ic_uns_subset_configure Selected -shade flat_wire
+ic_set_meshing_params global 0
+ic_boco_solver {ANSYS Fluent}
+ic_solver_mesh_info {ANSYS Fluent}
+ic_chdir D:/matlabfile/ICEM/PROJECT
+ic_delete_empty_parts 
+ic_delete_empty_parts 
+ic_save_tetin QUAD15-180.tin 0 0 {} {} 0 0 1
+ic_rename QUAD15-180.uns QUAD15-180.uns.bak
+ic_uns_check_duplicate_numbers 
+ic_uns_renumber_all_elements 1 1
+ic_save_unstruct QUAD15-180.uns 1 {} {} {}
+ic_uns_set_modified 1
+ic_boco_solver 
+ic_boco_solver {ANSYS Fluent}
+ic_solution_set_solver {ANSYS Fluent} 1
+ic_boco_save QUAD15-180.fbc
+ic_boco_save_atr QUAD15-180.atr
+ic_cart_is_loaded 
+ic_save_project_file D:/matlabfile/ICEM/PROJECT/QUAD15-180.prj {array\ set\ file_name\ \{ {    catia_dir .} {    parts_dir .} {    domain_loaded 0} {    cart_file_loaded 0} {    cart_file {}} {    domain_saved QUAD15-180.uns} {    archive {}} {    med_replay {}} {    topology_dir .} {    ugparts_dir .} {    icons {{$env(ICEM_ACN)/lib/ai_env/icons} {$env(ICEM_ACN)/lib/va/EZCAD/icons} {$env(ICEM_ACN)/lib/icons} {$env(ICEM_ACN)/lib/va/CABIN/icons}}} {    tetin QUAD15-180.tin} {    family_boco QUAD15-180.fbc} {    iges_dir .} {    solver_params_loaded 0} {    attributes_loaded 0} {    project_lock {}} {    attributes QUAD15-180.atr} {    domain QUAD15-180.uns} {    domains_dir .} {    settings_loaded 0} {    settings QUAD15-180.prj} {    blocking {}} {    hexa_replay {}} {    transfer_dir .} {    mesh_dir .} {    family_topo {}} {    gemsparts_dir .} {    family_boco_loaded 0} {    tetin_loaded 0} {    project_dir .} {    topo_mulcad_out {}} {    solver_params {}} \} array\ set\ options\ \{ {    expert 1} {    remote_path {}} {    tree_disp_quad 2} {    tree_disp_pyra 0} {    evaluate_diagnostic 0} {    histo_show_default 1} {    select_toggle_corners 0} {    remove_all 0} {    keep_existing_file_names 0} {    record_journal 1} {    edit_wait 0} {    face_mode all} {    select_mode all} {    med_save_emergency_tetin 1} {    user_name adamh} {    diag_which all} {    uns_warn_if_display 500000} {    bubble_delay 1000} {    external_num 1} {    tree_disp_tri 2} {    apply_all 1} {    default_solver {ANSYS Fluent}} {    temporary_directory C:/Users/adamh/AppData/Local/Temp} {    flood_select_angle 0} {    home_after_load 1} {    project_active 0} {    histo_color_by_quality_default 1} {    undo_logging 1} {    tree_disp_hexa 0} {    histo_solid_default 1} {    host_name DESKTOP-4P2AVLD} {    xhidden_full 1} {    editor notepad} {    mouse_color orange} {    clear_undo 1} {    remote_acn {}} {    remote_sh csh} {    tree_disp_penta 0} {    n_processors 1} {    remote_host {}} {    save_to_new 0} {    quality_info Quality} {    tree_disp_node 0} {    med_save_emergency_mesh 1} {    redtext_color red} {    tree_disp_line 0} {    select_edge_mode 0} {    use_dlremote 0} {    max_mesh_map_size 1024} {    show_tris 1} {    remote_user {}} {    enable_idle 0} {    auto_save_views 1} {    max_cad_map_size 512} {    display_origin 0} {    uns_warn_user_if_display 1000000} {    detail_info 0} {    win_java_help 0} {    show_factor 1} {    boundary_mode all} {    clean_up_tmp_files 1} {    auto_fix_uncovered_faces 1} {    med_save_emergency_blocking 1} {    max_binary_tetin 0} {    tree_disp_tetra 0} \} array\ set\ disp_options\ \{ {    uns_dualmesh 0} {    uns_warn_if_display 500000} {    uns_normals_colored 0} {    uns_icons 0} {    uns_locked_elements 0} {    uns_shrink_npos 0} {    uns_node_type None} {    uns_icons_normals_vol 0} {    uns_bcfield 0} {    backup Solid/wire} {    uns_nodes 0} {    uns_only_edges 0} {    uns_surf_bounds 0} {    uns_wide_lines 0} {    uns_vol_bounds 0} {    uns_displ_orient Triad} {    uns_orientation 0} {    uns_directions 0} {    uns_thickness 0} {    uns_shell_diagnostic 0} {    uns_normals 0} {    uns_couplings 0} {    uns_periodicity 0} {    uns_single_surfaces 0} {    uns_midside_nodes 1} {    uns_shrink 100} {    uns_multiple_surfaces 0} {    uns_no_inner 0} {    uns_enums 0} {    uns_disp Solid/wire} {    uns_bcfield_name {}} {    uns_color_by_quality 0} {    uns_changes 0} {    uns_cut_delay_count 1000} \} {set icon_size1 24} {set icon_size2 35} {set thickness_defined 0} {set solver_type 1} {set solver_setup -1} array\ set\ prism_values\ \{ {    n_triangle_smoothing_steps 5} {    min_smoothing_steps 6} {    first_layer_smoothing_steps 1} {    new_volume {}} {    height {}} {    prism_height_limit {}} {    interpolate_heights 0} {    n_tetra_smoothing_steps 10} {    do_checks {}} {    delete_standalone 1} {    ortho_weight 0.50} {    max_aspect_ratio {}} {    ratio_max {}} {    total_height {}} {    use_prism_v10 0} {    intermediate_write 1} {    delete_base_triangles {}} {    ratio_multiplier {}} {    refine_prism_boundary 1} {    max_size_ratio {}} {    triangle_quality {}} {    max_prism_angle 180} {    tetra_smooth_limit 0.3} {    max_jump_factor 5} {    use_existing_quad_layers 0} {    layers 3} {    fillet 0.10} {    into_orphan 0} {    init_dir_from_prev {}} {    blayer_2d 0} {    do_not_allow_sticking {}} {    top_family {}} {    law exponential} {    min_smoothing_val 0.1} {    auto_reduction 0} {    stop_columns 1} {    stair_step 1} {    smoothing_steps 12} {    side_family {}} {    min_prism_quality 0.01} {    ratio 1.2} \} {set aie_current_flavor {}} array\ set\ vid_options\ \{ {    wb_import_tritol 0.001} {    wb_import_mix_res_line 0} {    wb_import_cad_att_pre {SDFEA;DDM}} {    wb_import_surface_bodies 1} {    wb_NS_to_subset 0} {    wb_import_mat_points 0} {    auxiliary 0} {    wb_import_mix_res_surface 0} {    wb_import_mix_res -1} {    wb_import_cad_att_trans 1} {    show_name 0} {    wb_import_delete_solids 0} {    wb_import_solid_bodies 1} {    wb_import_save_pmdb {}} {    wb_import_mix_res_solid 0} {    inherit 1} {    default_part GEOM} {    new_srf_topo 1} {    wb_import_associativity_model_name {}} {    DelPerFlag 0} {    edit_replay_filter 0} {    show_item_name 0} {    wb_import_save_partfile 0} {    wb_import_line_bodies 0} {    composite_tolerance 1.0} {    wb_import_en_sym_proc 1} {    wb_NS_to_entity_parts 0} {    wb_import_work_points 0} {    wb_import_sel_proc 1} {    wb_NS_only 0} {    wb_import_pluginname {}} {    wb_import_mix_res_point 0} {    wb_import_refresh_pmdb 0} {    wb_import_create_solids 0} {    wb_import_load_pmdb {}} {    wb_import_scale_geo 0} {    wb_import_sel_pre {}} {    replace 0} {    wb_import_cad_associativity 0} {    same_pnt_tol 1e-4} {    tdv_axes 1} {    vid_mode 0} {    DelBlkPerFlag 0} \} array\ set\ map_tetin_sizes\ \{ {    densities 1} {    msurfaces 1} {    ppoint 1} {    thincuts 1} {    tetin {}} {    psurfaces 1} {    mcurves 1} {    mpoint 1} {    doit 0} {    pcurves 1} {    global 1} {    subsets 1} {    family 1} \} array\ set\ import_model_options\ \{ {    from_source 0} {    always_convert 0} {    named_sel_only 0} {    always_import 0} {    convert_to {}} \} {set savedTreeVisibility {geomNode 1 geom_subsetNode 2 geomPointNode 0 geomCurveNode 2 geomSurfNode 2 meshNode 1 mesh_subsetNode 2 meshPointNode 0 meshLineNode 2 meshShellNode 2 meshTriNode 2 meshQuadNode 2 partNode 2 part-BLADES 2 part-GEOM 2 part-INLET 2 part-INTERFACE 2 part-OUTLET 2 part-PNTS 2 part-ROTATIONAL 2 part-SIDES 2 part-STATIONARY 2}} {set last_view {rot {0 0 0 1} scale {0.269483333333 0.269483333333 0.269483333333} center {750.0 0.0 0.0} pos {0 0 0}}} array\ set\ cut_info\ \{ {    active 0} \} array\ set\ hex_option\ \{ {    default_bunching_ratio 2.0} {    floating_grid 0} {    project_to_topo 0} {    n_tetra_smoothing_steps 20} {    sketching_mode 0} {    trfDeg 1} {    wr_hexa7 0} {    smooth_ogrid 0} {    find_worst 1-3} {    hexa_verbose_mode 0} {    old_eparams 0} {    uns_face_mesh_method uniform_quad} {    multigrid_level 0} {    uns_face_mesh one_tri} {    check_blck 0} {    proj_limit 0} {    check_inv 0} {    project_bspline 0} {    hexa_update_mode 1} {    default_bunching_law BiGeometric} \} array\ set\ saved_views\ \{ {    views {}} \}} {ICEM CFD}
+ic_geo_convert_units mm m
+ic_exec {C:/Program Files/ANSYS Inc/v160/icemcfd/win64_amd/icemcfd/output-interfaces/fluent6} -dom D:/matlabfile/ICEM/PROJECT/QUAD15-180.uns -b QUAD15-180.fbc -dim2d ./QUAD15-180
+ic_uns_num_couplings 
+ic_undo_group_begin 
+ic_uns_create_diagnostic_edgelist 1
+ic_uns_diagnostic subset all diag_type uncovered fix_fam FIX_UNCOVERED diag_verb {Uncovered faces} fams {} busy_off 1 quiet 1
+ic_uns_create_diagnostic_edgelist 0
+ic_undo_group_end 
