@@ -1,0 +1,73 @@
+# Written by ICEM CFD 16.1, user adamh, Fri Mar 31 19:06:32 ä¸­å›½æ ‡å‡†æ—¶é—´ 2017
+
+begin family GEOM
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 16663900 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family GEOM
+
+begin family ADVANCING
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 16663900 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family ADVANCING
+
+begin family RETURNING
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 16663900 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family RETURNING
+
+begin family INTERFACE
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 16663900 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family INTERFACE
+
+begin family ROTATIONAL
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 16663900 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family ROTATIONAL
+
+begin family INLET
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 16663900 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family INLET
+
+begin family OUTLET
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 16663900 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family OUTLET
+
+begin family SIDES
+    begin solver "ANSYS Fluent"
+        begin bctype color
+            active 1
+            color 16663900 1
+        end bctype color
+    end solver "ANSYS Fluent"
+end family SIDES

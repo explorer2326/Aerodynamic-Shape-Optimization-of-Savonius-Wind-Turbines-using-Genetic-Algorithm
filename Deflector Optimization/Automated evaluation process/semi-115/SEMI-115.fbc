@@ -1,0 +1,19 @@
+# family_boco file written by ICEM CFD by adamh on Fri Mar 31 19:06:32 ä¸­å›½æ ‡å‡†æ—¶é—´ 2017
+## solver ANSYS Fluent
+"GEOM"
+"GEOM" "color" 16663900
+"ADVANCING"
+"ADVANCING" "color" 16663900
+"RETURNING"
+"RETURNING" "color" 16663900
+"INTERFACE"
+"INTERFACE" "color" 16663900
+"ROTATIONAL"
+"ROTATIONAL" "color" 16663900
+"INLET"
+"INLET" "color" 16663900
+"OUTLET"
+"OUTLET" "color" 16663900
+"SIDES"
+"SIDES" "color" 16663900
+
